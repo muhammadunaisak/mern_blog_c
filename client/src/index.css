@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Passions+Conflict&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #c5c4c4;
+  color: #000;
+}
+.container {
+  max-width: 95%;
+  margin: auto;
+}
+.logo {
+  height: 40px;
+}
+footer {
+  margin-top: 50px;
+  padding: 10px;
+}
+footer .icon {
+  font-size: 20px;
+  margin-left: 10px;
+}
+.boxItems {
+  border: 1px solid #e6e6e6;
+  border-radius: 12px;
+  padding: 20px;
+  background: #fff;
+}
+.flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

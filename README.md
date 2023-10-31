@@ -1,6 +1,17 @@
 # Simple Blog App
 
-This is a simple blog application built using React for the frontend, Node.js for the backend, and MongoDB as the database.
+This is a simple blog application built using React for the frontend, Node.js for the backend, and MongoDB as the database.<br>
+
+##login
+
+![image](https://github.com/muhammadunaisak/mern_blog_c/assets/84447232/62eeb82b-b9f1-412e-b896-5672a7d98d3d)<br>
+
+##Register
+![image](https://github.com/muhammadunaisak/mern_blog_c/assets/84447232/8c81dde3-1ca3-40b9-9be1-e6a9f806f637)
+
+##home
+![image](https://github.com/muhammadunaisak/mern_blog_c/assets/84447232/bc7eb2ab-c127-4051-bfeb-4772eaeecf6f)
+
 
 ## Features
 
@@ -59,7 +70,4 @@ The application should open in your default web browser.
 - Database: MongoDB
 - Other: Axios (for API requests), JWT (for authentication)
 
-## License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
 
